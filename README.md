@@ -76,4 +76,24 @@ Electronic Arts
 
 []The Nintendo Wii seems to have outdone itself with games. How does its average number of sales compare with all of the other platforms?
 
-Come up with 3 more questions that can be answered with this data set.
+
+[]Come up with 3 more questions that can be answered with this data set.
+
+1- #question1
+```
+std_for_higher_sales=data['NA_Sales'].std()
+std_for_higher_sales
+```
+
+2- #question2
+`data[['Name','NA_Sales','Publisher']].groupby('Name').median()`
+
+
+3- Question3
+```
+median_game_sales = data['Global_Sales'].median()
+median_game_sales
+
+highly_ten_games=data[data['Global_Sales']==median_game_sales].head(10)
+highly_ten_games
+```
