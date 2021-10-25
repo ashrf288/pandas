@@ -19,7 +19,30 @@ Electronic Arts
 
       Action 
 
-[]What are the top 20 highest grossing games?
+[x]What are the top 20 highest grossing games?
+    
+
+0                                       Wii Sports
+1                                Super Mario Bros.
+2                                   Mario Kart Wii
+3                                Wii Sports Resort
+4                         Pokemon Red/Pokemon Blue
+5                                           Tetris
+6                            New Super Mario Bros.
+7                                         Wii Play
+8                        New Super Mario Bros. Wii
+9                                        Duck Hunt
+10                                      Nintendogs
+11                                   Mario Kart DS
+12                     Pokemon Gold/Pokemon Silver
+13                                         Wii Fit
+14                                    Wii Fit Plus
+15                              Kinect Adventures!
+16                              Grand Theft Auto V
+17                   Grand Theft Auto: San Andreas
+18                               Super Mario World
+19    Brain Age: Train Your Brain in Minutes a Day
+
 
 []For North American video game sales, what’s the median?
 
