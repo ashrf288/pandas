@@ -69,9 +69,8 @@ Electronic Arts
    0.08
 
 
-[]Provide a secondary output showing ten games surrounding the median sales output
-
-[]assume that games with same median value are sorted in descending order
+[x]Provide a secondary output showing ten games surrounding the median sales output assume that games with same median value are sorted in descending order?
+    
 
 []For the top-selling game of all time, how many standard deviations above/below the mean are its sales for North America?
 
