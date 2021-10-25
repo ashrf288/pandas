@@ -8,9 +8,12 @@ In the `vg-stats` notebook answer the following questions/do the following tasks
 Note that the numbers quoted for sales are in the millions, and apply only for those games with over 10,000 sales.:
 
 [x]Which company is the most common video game publisher?
+
 Electronic Arts
 
-[]What’s the most common platform?
+[x]What’s the most common platform?
+
+      DS 
 
 []What about the most common genre?
 
