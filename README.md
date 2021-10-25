@@ -15,7 +15,9 @@ Electronic Arts
 
       DS 
 
-[]What about the most common genre?
+[x]What about the most common genre?
+
+      Action 
 
 []What are the top 20 highest grossing games?
 
